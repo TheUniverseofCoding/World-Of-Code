@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/TheUniverseofCoding/World-Of-Code.png?columns=all)](https://waffle.io/TheUniverseofCoding/World-Of-Code?utm_source=badge)
 ## LICENSE
 
 [MIT](LICENSE)
